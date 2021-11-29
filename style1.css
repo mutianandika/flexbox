@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box {
+    width: 227px;
+    height: 7%;
+    margin: 10px;
+    padding: 2px;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+img {
+    width: 100%;
+}
+.box1 {
+    width: 31%;
+}
+.box2 {
+    width: 31%;
+}
+.box3 {
+    width: 31%;
+}
